@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Bouzaghrane's github stats](https://github-readme-stats.bouzaghrane.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bouzaghrane/bouzaghrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
